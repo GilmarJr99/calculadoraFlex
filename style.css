@@ -1,0 +1,34 @@
+body{
+    font-family: 'Open Sans', 'Courier New', Courier, monospace
+}
+
+div {
+    position: absolute; /* posiciona o div absolutamente */
+    top: 30%; /* posiciona o div 50% da largura da tela para baixo */
+    left: 50%; /* posiciona o div 50% da altura da tela para esquerda */
+    transform: translate(-50%, -50%); /* move o div para cima e para esquerda */
+  }
+
+  h1{
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  input {
+    /* estilos gerais para todos os inputs */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  
+  
