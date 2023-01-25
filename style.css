@@ -3,10 +3,10 @@ body{
 }
 
 div {
-    position: absolute; /* posiciona o div absolutamente */
-    top: 30%; /* posiciona o div 50% da largura da tela para baixo */
-    left: 50%; /* posiciona o div 50% da altura da tela para esquerda */
-    transform: translate(-50%, -50%); /* move o div para cima e para esquerda */
+    position: absolute; 
+    top: 30%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
   }
 
   h1{
@@ -24,7 +24,8 @@ div {
   }
 
   input {
-    /* estilos gerais para todos os inputs */
+      
+      
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
